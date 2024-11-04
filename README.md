@@ -1,5 +1,3 @@
-# Project Design
-
 ## Objective
 The objective of our project is to build a web app that helps students **study together in groups**, **chat in real-time**, and **quiz each other**. Our app is structured to allow students to connect, discuss, and reinforce their knowledge. The app promotes interactive learning through the following three main features:
 
