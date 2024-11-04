@@ -147,6 +147,10 @@ main p {
   text-align: center;
 }
 
+.guide-item:hover h3 {
+  color: #3c91e6;
+}
+
 .icon {
   font-size: 2em;
   color: #3c91e6;
